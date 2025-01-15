@@ -1,7 +1,3 @@
-Based on the gathered information, I will draft the README documentation for the California housing predict model. Since the `main.py` file could not be retrieved, I will create a general structure for the README, and you can fill in specific details related to the model's implementation.
-
----
-
 # California Housing Predict Model
 
 ## Introduction
